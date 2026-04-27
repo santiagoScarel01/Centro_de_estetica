@@ -1,0 +1,14 @@
+IdTurno:3
+Dni:45801793
+Nombre:Luciano
+Tratamientos a realizar:
+Limpieza facial antiage + Radiofrecuencia
+Perfilado de cejas + Lifting de pestanias
+QR
+Monto total:18615.00
+Fecha establecida del turno
+Dia: 12
+Mes:12
+Anio:2024
+Hora:12:00
+=======================================

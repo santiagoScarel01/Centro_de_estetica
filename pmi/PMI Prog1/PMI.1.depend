@@ -1,0 +1,242 @@
+# depslib dependency file v1.0
+1729604538 source:d:\pmi.prog 1\1\pmi.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"turno.h"
+
+1729603662 d:\pmi.prog 1\1\pmi.1\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730439874 source:c:\users\lucia\downloads\pmi.1 v2\pmi.1\main.c
+	<stdio.h>
+	"turno.h"
+	"clientes.h"
+	"listaD.h"
+	"ListaE.h"
+
+1730438792 c:\users\lucia\downloads\pmi.1 v2\pmi.1\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730420620 c:\users\lucia\downloads\pmi.1 v2\pmi.1\clientes.h
+	<string.h>
+
+1730412297 c:\users\lucia\downloads\pmi.1 v2\pmi.1\listad.h
+	"turno.h"
+
+1730412328 c:\users\lucia\downloads\pmi.1 v2\pmi.1\listae.h
+	"Clientes.h"
+
+1730765541 source:c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por luciano v7\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1730682619 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por luciano v7\listad.h
+	"turno.h"
+
+1730756460 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por luciano v7\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730754178 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por luciano v7\listae.h
+	"Clientes.h"
+
+1730694637 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por luciano v7\clientes.h
+	<string.h>
+
+1731011830 source:c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por santiago v7\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1730842626 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por santiago v7\listad.h
+	"turno.h"
+
+1730936199 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por santiago v7\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730754178 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por santiago v7\listae.h
+	"Clientes.h"
+
+1730943681 c:\users\santi\onedrive\desktop\poryectos integradores\pmi pasado por santiago v7\clientes.h
+	<string.h>
+
+1731021865 source:c:\users\usuario\desktop\pmi pasado por santiago v7\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1730842628 c:\users\usuario\desktop\pmi pasado por santiago v7\listad.h
+	"turno.h"
+
+1730936200 c:\users\usuario\desktop\pmi pasado por santiago v7\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730754180 c:\users\usuario\desktop\pmi pasado por santiago v7\listae.h
+	"Clientes.h"
+
+1730943682 c:\users\usuario\desktop\pmi pasado por santiago v7\clientes.h
+	<string.h>
+
+1731081601 source:d:\descargas\pmi pasado por santiago v7\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1730842628 d:\descargas\pmi pasado por santiago v7\listad.h
+	"turno.h"
+
+1730936200 d:\descargas\pmi pasado por santiago v7\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730754180 d:\descargas\pmi pasado por santiago v7\listae.h
+	"Clientes.h"
+
+1730943682 d:\descargas\pmi pasado por santiago v7\clientes.h
+	<string.h>
+
+1731271199 source:c:\users\y2k\desktop\pmi pasado por santiago v7\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1731187056 c:\users\y2k\desktop\pmi pasado por santiago v7\listad.h
+	"turno.h"
+
+1731187056 c:\users\y2k\desktop\pmi pasado por santiago v7\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731211262 c:\users\y2k\desktop\pmi pasado por santiago v7\listae.h
+	"Clientes.h"
+
+1731187056 c:\users\y2k\desktop\pmi pasado por santiago v7\clientes.h
+	<string.h>
+
+1731215655 source:c:\users\lucia\downloads\proyecto\pmi pasado por santiago v7 v10\pmi pasado por santiago v7\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1731187056 c:\users\lucia\downloads\proyecto\pmi pasado por santiago v7 v10\pmi pasado por santiago v7\listad.h
+	"turno.h"
+
+1731187056 c:\users\lucia\downloads\proyecto\pmi pasado por santiago v7 v10\pmi pasado por santiago v7\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731211262 c:\users\lucia\downloads\proyecto\pmi pasado por santiago v7 v10\pmi pasado por santiago v7\listae.h
+	"Clientes.h"
+
+1731187056 c:\users\lucia\downloads\proyecto\pmi pasado por santiago v7 v10\pmi pasado por santiago v7\clientes.h
+	<string.h>
+
+1731277256 source:c:\users\lucia\downloads\pmi prog1\pmi prog1\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1731271597 c:\users\lucia\downloads\pmi prog1\pmi prog1\listad.h
+	"turno.h"
+
+1731271597 c:\users\lucia\downloads\pmi prog1\pmi prog1\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731271597 c:\users\lucia\downloads\pmi prog1\pmi prog1\listae.h
+	"Clientes.h"
+
+1731271597 c:\users\lucia\downloads\pmi prog1\pmi prog1\clientes.h
+	<string.h>
+
+1731371842 source:c:\users\y2k\desktop\pmi prog1\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1731271598 c:\users\y2k\desktop\pmi prog1\listad.h
+	"turno.h"
+
+1731271598 c:\users\y2k\desktop\pmi prog1\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731271598 c:\users\y2k\desktop\pmi prog1\listae.h
+	"Clientes.h"
+
+1731271598 c:\users\y2k\desktop\pmi prog1\clientes.h
+	<string.h>
+
+1731371841 source:c:\users\usuario\desktop\pmi prog1\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1731271598 c:\users\usuario\desktop\pmi prog1\listad.h
+	"turno.h"
+
+1731271598 c:\users\usuario\desktop\pmi prog1\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731271598 c:\users\usuario\desktop\pmi prog1\listae.h
+	"Clientes.h"
+
+1731271598 c:\users\usuario\desktop\pmi prog1\clientes.h
+	<string.h>
+
+1731431902 source:c:\users\lucia\downloads\isaguerre\pmi prog1\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1731392011 c:\users\lucia\downloads\isaguerre\pmi prog1\listad.h
+	"turno.h"
+
+1731431632 c:\users\lucia\downloads\isaguerre\pmi prog1\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731392011 c:\users\lucia\downloads\isaguerre\pmi prog1\listae.h
+	"Clientes.h"
+
+1731392011 c:\users\lucia\downloads\isaguerre\pmi prog1\clientes.h
+	<string.h>
+
+1731432000 source:c:\users\santi\onedrive\desktop\uni\poryectos integradores\pmi prog1\main.c
+	<stdio.h>
+	"listaD.h"
+	"ListaE.h"
+
+1731392011 c:\users\santi\onedrive\desktop\uni\poryectos integradores\pmi prog1\listad.h
+	"turno.h"
+
+1731431632 c:\users\santi\onedrive\desktop\uni\poryectos integradores\pmi prog1\turno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731392011 c:\users\santi\onedrive\desktop\uni\poryectos integradores\pmi prog1\listae.h
+	"Clientes.h"
+
+1731392011 c:\users\santi\onedrive\desktop\uni\poryectos integradores\pmi prog1\clientes.h
+	<string.h>
+
